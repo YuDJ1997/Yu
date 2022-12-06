@@ -1,0 +1,6 @@
+﻿  pointer2.cpp
+D:\项目C\Pointer1\pointer2.cpp(55,27): error C2440: “初始化”: 无法从“int (__cdecl *)(int,int)”转换为“int (__cdecl *[5])(int,int)”
+D:\项目C\Pointer1\pointer2.cpp(55,27): message : 没有转换为数组类型，但有转换为数组的引用或指针
+D:\项目C\Pointer1\pointer2.cpp(69,3): error C2181: 没有匹配 if 的非法 else
+D:\项目C\Pointer1\pointer2.cpp(76,3): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\项目C\Pointer1\pointer2.cpp(77,10): error C2065: “input”: 未声明的标识符
